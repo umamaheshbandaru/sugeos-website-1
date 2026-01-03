@@ -1,0 +1,8 @@
+{
+  "name": "Sugeos Tech Systems",
+  "description": "A high-end, production-ready software development agency website with a built-in CMS and Admin Dashboard.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
